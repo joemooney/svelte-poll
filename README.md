@@ -4,7 +4,19 @@
 
 ---
 
-# svelte app
+# Sample Svelte Poll App
+
+Using the net ninja svelte tutorial on youtube https://www.youtube.com/watch?v=f0v5WcrU_vM
+
+## Steps
+```
+gh repo clone sveltejs/template svelte-app
+cd svelte-app
+npm install
+npm run dev
+```
+
+## svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
